@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#top {
+    font-weight: 900;
+    background-color: rgb(54, 53, 16);
+    color: rgb(252, 118, 118);
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Link {
+    height: 670px;
+    background-image: url(istockphoto-513247652-1024x1024.jpg);
+    background-size: cover;
+}
+
+#link_main {
+    text-decoration: none;
+    margin-left: 80px;
+}
+
+h3 {
+    margin-left: 20px;
+}
+
+#footer {
+    height: 60px;
+    background-color: rgb(69, 44, 10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
+}

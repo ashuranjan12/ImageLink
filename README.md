@@ -1,2 +1,2 @@
 # ImageLink
-This is html and CSS based Project &lt;br> Author - Ashutosh Ranjan
+This is html and CSS based Project <br> Author - Ashutosh Ranjan
